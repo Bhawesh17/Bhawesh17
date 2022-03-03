@@ -1,5 +1,2 @@
-- 👋 Hi, I’m @Bhawesh17
-- 👀 I’m interested in App Development for now...
-- 🌱 I’m currently learning flutter..
-- 
-
+- 👋 Hi, I’m Bhawesh
+- 👀 I’m interested in App Development...
